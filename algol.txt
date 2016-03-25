@@ -1,0 +1,11 @@
+Un algoritmo es una serie de pasos para resolver un problema o completar una actividad. Utilizamos algoritmos en todo momento, sin ni siquiera saber. Cuando estamos nos vamos a bañar. Primero entramos al baño, abrimos la llave, nos mojamos, nos echamos jabón.... Para ir al trabajo. Los algoritmos gobiernan nuestras vidas, y a veces están tan arraigados a nosotros mismos que los realizamos sin pensarlo.
+Cuando la perfecta niña en el colegio, le dice al perfecto nerd:
+Lo siento, pero tú a mí no me gustas.
+La niña, corrió su algoritmo de novio, con una variable de entrada. ¿Tiene grandes músculos? No. ¿Es popular? No. ¿Tiene carro? No. ¿Tiene moto? No. ¿Tiene casa? No. Y es entonces cuando pronuncia esas palabras:
+Lo siento, pero tú a mí no me gustas.
+Es un algoritmo bastante fácil.
+Cuando el compañero de trabajo en el colegio, le dice a su compañera de trabajo.
+-Lo siento, pero tú a mí no me gustas.
+También, la adulta, con experiencia lanza su algoritmo, un poco más refinado, con más experiencia que el de la niña, y finalmente saca su conclusión. {Dar un ejemplo aquí de un algoritmo más complicado}
+-Lo siento, pero tú a mí no me gustas.
+Y el ser humano tiene un potencial inmenso, para crear algorimos, incluso llega a crear algo que se llama metaalgoritmo, que es un algoritmo que decide qué algoritmos ejecutar, dependiendo de las entradas. Como un gran bibliotecario que dependiendo del gusto del cliente, recomienda un libro en particular.

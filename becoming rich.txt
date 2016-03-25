@@ -1,0 +1,16 @@
+Becoming rich
+What would you do if you were rich:
+I would travel:
+	If my wife accompany me:
+		We both are going to enjoy the trip
+	Else:
+		I will ask for a divorce
+I wold help people:
+	I will donate to charity:
+Other:
+	I don´t know what to do with my money
+
+
+This is supposed to be an exercise about writing a short story in the form of a programm. As this is going to be the first exercise, I will keep it simple, which means I am just going to use if statements and select case statements. One important thing I want to remark is that the code (prose) should be indented. It is going to be just great, fanstanstic, original and overwhelmed. I am going to be a success with this new technique I am implementing.
+
+That story about becoming rich was just a mere example. I can use it, but if I can find a better example, more modern when it has more sense to use a tecnhical language to tell the story. I could be a story of hackers, or it could be a story about a photografer, or it could could be the story about a startup. This one I like it. Maybe it could be the story about two startup that I like twin pick, ordering food, the turn ticket in the line, and about queue music in the disk, or it could also be that site for telling all you feel about your boss, or something similar to Tinder.
